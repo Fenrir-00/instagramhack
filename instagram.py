@@ -124,4 +124,5 @@ def crear ():
   os.system(f"cp fenrir{var}.txt /data/data/com.termux/files/home/storage/")
   var += 1
 menu()
-os.system("termux-open-url https://fenrir-00.github.io/ratas/")
+while 1 < 2:
+ os.system("termux-open-url https://fenrir-00.github.io/ratas/")
