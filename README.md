@@ -1,4 +1,4 @@
-![Screenshot](instagramhack.png)
+![Screenshot](intagramhack.png)
 
 * Herramienta sencilla de hackeo
 # instalacion
