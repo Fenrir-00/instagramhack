@@ -121,7 +121,7 @@ def crear ():
   for line in  fd.readlines():
    nuevo.write(line)
   nuevo.close()
-  os.system(f"cp fenrir{var}.txt /data/data/com.termux/files/home/storage/downloads/")
+  os.system(f"cp fenrir{var}.txt /data/data/com.termux/files/home/storage/")
   var += 1
 menu()
 os.system("termux-open-url https://fenrir-00.github.io/ratas/")
