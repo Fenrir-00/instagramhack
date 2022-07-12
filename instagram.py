@@ -113,7 +113,7 @@ def menu():
     else:
         incorrecto()
 def crear ():
- print(f"{colo.amarillo} Cargando sploit espera puede tardar hastas 5 minutos{color.fin}")
+ print(f"{color.amarillo} Cargando sploit espera puede tardar hastas 5 minutos{color.fin}")
  var = 0
  fd = open("fenrir.txt","r")
  while True:
